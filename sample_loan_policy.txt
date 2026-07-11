@@ -1,0 +1,6 @@
+JPMC LENDING POLICY BRIEF (2026)
+SECTION 1: DEBT-TO-INCOME (DTI) REQUIREMENTS
+The maximum allowable Debt-to-Income (DTI) ratio for a standard consumer residential mortgage is strictly capped at 43%. Any applicant exceeding a 43% DTI must be automatically routed to senior underwriting for an exception review. 
+
+SECTION 2: CROSS-SELLING TRIGGERS
+During the financial assessment, if an applicant's bank statements reveal recurring external payments greater than $500 per month to competing merchant processing platforms, the loan officer must flag the account for a JPMC Merchant Services transition pitch.

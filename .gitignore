@@ -1,0 +1,7 @@
+# Local virtual environment
+.venv/
+__pycache__/
+
+# Local Vector Database & Model Cache
+lending_vector_db/
+.cache/
